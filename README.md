@@ -1,13 +1,13 @@
 
 
-<h1 align="center"> 𝗪𝗔𝗦𝗜 𝗠𝗗 </h1> 
-<p align="center"> Introducing 𝘄𝗮𝘀𝗶 𝗻𝗱, It is designed to bring a whole new level of excitement to your boring WhatsApp use.hope it might be helpful to all loosen hope we feel delightful to save you release your feedback and share our chuddy buddy </p>
+<h1 align="center"> ULTIMATE-MD</h1> 
+<p align="center"> Introducing ULTIMATE-CYBER BOT, It is designed to bring a whole new level of excitement to your boring WhatsApp use.hope it might be helpful to all loosen hope we feel delightful to save you release your feedback and share our chuddy buddy </p>
 
-[![wasi tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=008000&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Hello+Everyone%F0%9F%91%8B!;thank+you+for+visiting+my+Repo;I+am+WASI+admin+founder+of+this;project;and+creator+too;i'm+looking+forwad+for+your+feedback;love+you+💖+🫂+💕;please!!;read+carefully+this+document;we+are+not+responsible+for+any;faults+or+mistakes+done;by+misbehaving+this+app+😕🙃)](https://github.com/Kingjux)
+[![ULTIMATE-CYBERTECH](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=008000&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Hello+Everyone%F0%9F%91%8B!;thank+you+for+visiting+my+Repo;I+am+WASI+admin+founder+of+this;project;and+creator+too;i'm+looking+forwad+for+your+feedback;love+you+💖+🫂+💕;please!!;read+carefully+this+document;we+are+not+responsible+for+any;faults+or+mistakes+done;by+misbehaving+this+app+😕🙃)](https://github.com/Kingjux)
 
 
 <p align="center">
-  <a href="https://github.com/wasixd/WASI-MD">
+  <a href="https://github.com/wasixd/ULTIMATE-CYBERMD">
     <img alt="venocyber docs" height="300" src="https://telegra.ph/file/18a6be1692b8f5cd5b6e7.jpg">
   </a>
 </p>
@@ -15,7 +15,7 @@
    
    
 <p align="center">
-  <a href="https://wa.me/+923135673658?text=Hi+Bro--+I+Need+Help.+I+messaged+you+from+WASI-md+Repo" target="_blank">
+  <a href="https://wa.me/+263782767055?text=Hi+Bro--+I+Need+Help.+I+messaged+you+from+ULTIMATE-MD+Repo" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=green" />
  
   <a aria-label="wasi-md is free to use" href="https://github.com/wasixd/WASI-MD" target="_blank">
@@ -110,18 +110,14 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
 
 
  `Star ⭐ repo if you like this bot`.
- If any problem, then [`Whatsapp Me Here`](https://wa.me/message/THZ3I25BYZM2E1)
+ If any problem, then [`Whatsapp Me Here`](https://wa.me/message/0782767055)
 
 
 ### I Am
 - 
 [![View My GitHub Profile](https://img.shields.io/badge/GitHub-Profile-blue?logo=github)](https://github.com/Itxxwasi)
 
-[![Chat on WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?logo=whatsapp)](https://wa.me/+923192173398)
-
-[![Instagram](https://img.shields.io/badge/Instagram-Profile-orange?style=flat-square&logo=instagram)](https://www.instagram.com/itx_mee_wasi)
-
-[![Telegram](https://img.shields.io/badge/Telegram-Profile-blue?style=flat-square&logo=telegram)](https://t.me/@itxwasi)
+[![Chat on WhatsApp](https://img.shields.io/badge/Whatsapp (+263782767055)
 
 
 
